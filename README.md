@@ -7,11 +7,17 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutobr9&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
- 
-<div> 
+ ##
   <a href = "mailto:gustavo.bezerrarodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavobrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <br/>
+  ##
+ I’m currently learning:
+ <br/> <br/>
+ <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+ ##
+<div> 
+ 
  
   ![Snake animation](https://github.com/gutobr9/gutobr9/blob/output/github-contribution-grid-snake.svg)
  
